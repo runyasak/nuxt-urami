@@ -40,7 +40,7 @@ export default defineNuxtModule<NuxtUramiOptions>({
 
     addServerHandler({
       route: "/api/_image",
-      handler: resolver.resolve("./runtime/server/api/_image.ts"),
+      handler: resolver.resolve("./runtime/server/api/_image"),
     });
   },
 });
