@@ -25,10 +25,9 @@ export default defineNuxtModule<NuxtUramiOptions>({
     version,
     configKey: "urami",
   },
-  setup(options, nuxt) {
+  setup(options) {
     if (options.handlerConfig) {
-      (nuxt.options.runtimeConfig["handlerConfig"] as Partial<HandlerConfig>) =
-        options.handlerConfig;
+      process.env["handlerConfig"] = JSON.stringify(options.handlerConfig);
     }
 
     const resolver = createResolver(import.meta.url);
