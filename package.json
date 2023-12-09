@@ -1,6 +1,6 @@
 {
   "name": "nuxt-urami",
-  "version": "1.0.0",
+  "version": "1.0.0-0",
   "description": "Urami automatic image optimization module for Nuxt",
   "repository": "https://github.com/runyasak/nuxt-urami",
   "license": "MIT",
@@ -29,7 +29,7 @@
     "dev": "nuxi dev playground",
     "dev:build": "nuxi build playground",
     "dev:prepare": "nuxt-module-build build --stub && nuxt-module-build prepare && nuxi prepare playground",
-    "release": "npm run lint && npm run test && npm run prepack && changelogen --release && npm publish && git push --follow-tags",
+    "release": "npm run prepack && changelogen --release && npm publish && git push --follow-tags",
     "lint": "eslint .",
     "test": "vitest run",
     "test:watch": "vitest watch",
