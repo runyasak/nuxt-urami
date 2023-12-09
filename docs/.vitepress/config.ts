@@ -6,7 +6,16 @@ export default defineConfig({
   description: "Urami automatic image optimization module for Nuxt",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [{ text: "Home", link: "/" }],
+    nav: [
+      {
+        text: "Home",
+        link: "/",
+      },
+      {
+        text: "Example",
+        link: "https://github.com/runyasak/nuxt-urami/tree/main/playground",
+      },
+    ],
 
     sidebar: [
       {

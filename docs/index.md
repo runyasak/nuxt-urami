@@ -11,8 +11,8 @@ hero:
       text: Get started
       link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Examples
+      link: https://github.com/runyasak/nuxt-urami/tree/main/playground
 
 features:
   - icon: 🖼️

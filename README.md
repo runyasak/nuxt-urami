@@ -1,12 +1,3 @@
-<!--
-Get your module up and running quickly.
-
-Find and replace all on all files (CMD+SHIFT+F):
-- Name: Nuxt Urami
-- Package name: nuxt-urami
-- Description: Urami automatic image optimization module for Nuxt
--->
-
 # Nuxt Urami
 
 [![npm version][npm-version-src]][npm-version-href]
@@ -17,16 +8,17 @@ Find and replace all on all files (CMD+SHIFT+F):
 Urami automatic image optimization module for Nuxt.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
-  <!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/nuxt-urami?file=playground%2Fapp.vue) -->
-  <!-- - [📖 &nbsp;Documentation](https://example.com) -->
 
 ## Features
 
 <!-- Highlight some of the features your module provide here -->
 
-- ⛰ &nbsp;Foo
-- 🚠 &nbsp;Bar
-- 🌲 &nbsp;Baz
+- 🖼️ Optmized:
+  Optimizes images like Urami, into the best format and size based on the visitor's browser
+- 🛠 Zero Config:
+  A few lines of configuration are all it takes to ensure your Nuxt.js project delivers high-performance images.
+- 🚀 Easy to Use:
+  Makes image optimization effortless with a single component, requiring minimal setup, for a high-performance website
 
 ## Quick Setup
 
@@ -57,26 +49,19 @@ That's it! You can now use Nuxt Urami in your Nuxt app ✨
 
 ```bash
 # Install dependencies
-npm install
+pnpm install
 
 # Generate type stubs
-npm run dev:prepare
+pnpm run dev:prepare
 
 # Develop with the playground
-npm run dev
+pnpm run dev
 
 # Build the playground
-npm run dev:build
+pnpm run dev:build
 
 # Run ESLint
-npm run lint
-
-# Run Vitest
-npm run test
-npm run test:watch
-
-# Release new version
-npm run release
+pnpm run lint
 ```
 
 <!-- Badges -->
