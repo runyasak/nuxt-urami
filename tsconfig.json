@@ -1,6 +1,4 @@
 {
   "extends": "./playground/.nuxt/tsconfig.json",
-  "compilerOptions": {
-    "baseUrl": "."
-  }
+  "include": ["./playground/.nuxt/nuxt.d.ts", "./playground/**/*", "./src/**/*"]
 }
