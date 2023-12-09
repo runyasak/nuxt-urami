@@ -21,4 +21,5 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/runyasak/nuxt-urami" },
     ],
   },
+  base: "https://runyasak.github.io/nuxt-urami/",
 });
