@@ -17,6 +17,13 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "nuxt",
+    "image-processing",
+    "image-optimization",
+    "urami",
+    "automatic-image-optimization"
+  ],
   "scripts": {
     "prepack": "nuxt-module-build build",
     "dev": "nuxi dev playground",
