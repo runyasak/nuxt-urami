@@ -1,11 +1,3 @@
 {
-  "extends": "./playground/.nuxt/tsconfig.json",
-  "include": [
-    "./playground/.nuxt/nuxt.d.ts",
-    "./playground/**/*",
-    "./src/**/*"
-  ],
-  "compilerOptions": {
-    "baseUrl": "."
-  }
+  "extends": "./playground/.nuxt/tsconfig.json"
 }
