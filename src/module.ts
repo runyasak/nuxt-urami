@@ -14,9 +14,9 @@ export interface NuxtUramiOptions {
 export interface HandlerConfig {
   remoteDomains?: string[];
   allowedDomains?: string[];
-  storePath: string;
-  ttl: number;
-  avif: boolean;
+  storePath?: string;
+  ttl?: number;
+  avif?: boolean;
 }
 
 export default defineNuxtModule<NuxtUramiOptions>({
