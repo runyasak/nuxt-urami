@@ -1,6 +1,6 @@
 # Options
 
-Configure Nuxt Urami with [urami](https://urami.dev/core/configuration) property.
+Configure Nuxt Urami with `urami` property.
 
 ::: tip
 All of these options are optional.
@@ -21,3 +21,5 @@ export default {
   },
 };
 ```
+
+Learn more about overwriting the `urami` configuration in the [Urami Config](https://urami.dev/core/configuration) section.

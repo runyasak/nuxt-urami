@@ -31,3 +31,20 @@ export default defineNuxtConfig({
   modules: ["nuxt-urami"],
 });
 ```
+
+---
+
+# Image component
+
+You can import image component `<UramiImage />` globally in your Nuxt.js project.
+
+```vue
+<template>
+  <UramiImage
+    src="https://demo.rayriffy.com/tom-scott.jpg"
+    width="801"
+    height="801"
+    alt="Tom Scott"
+  />
+</template>
+```
