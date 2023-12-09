@@ -12,7 +12,7 @@ export default defineConfig({
       {
         items: [
           { text: "Get started", link: "/introduction" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "Options", link: "/options" },
         ],
       },
     ],
