@@ -8,16 +8,17 @@
 Urami automatic image optimization module for Nuxt.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
+- [🛝 Example Project](https://github.com/runyasak/nuxt-urami-playground)
 
 ## Features
 
 <!-- Highlight some of the features your module provide here -->
 
-- 🖼️ Optmized:
+- 🖼️ **Optmized**:
   Optimizes images like Urami, into the best format and size based on the visitor's browser
-- 🛠 Zero Config:
+- 🛠 **Zero Config**:
   A few lines of configuration are all it takes to ensure your Nuxt.js project delivers high-performance images.
-- 🚀 Easy to Use:
+- 🚀 **Easy to Use**:
   Makes image optimization effortless with a single component, requiring minimal setup, for a high-performance website
 
 ## Quick Setup
