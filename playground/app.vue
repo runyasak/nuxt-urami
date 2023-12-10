@@ -9,7 +9,3 @@
     />
   </div>
 </template>
-
-<script setup>
-import UramiImage from "../src/runtime/components/UramiImage.vue";
-</script>

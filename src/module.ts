@@ -34,7 +34,7 @@ export default defineNuxtModule<NuxtUramiOptions>({
 
     addComponent({
       name: "UramiImage",
-      filePath: resolver.resolve("./runtime/components/UramiImage.vue"),
+      filePath: "@urami/vue",
     });
 
     addServerHandler({
