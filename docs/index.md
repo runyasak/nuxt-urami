@@ -12,7 +12,7 @@ hero:
       link: /introduction
     - theme: alt
       text: Examples
-      link: https://github.com/runyasak/nuxt-urami/tree/main/playground
+      link: https://github.com/runyasak/nuxt-urami-playground
 
 features:
   - icon: 🖼️

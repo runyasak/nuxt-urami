@@ -13,7 +13,7 @@ export default defineConfig({
       },
       {
         text: "Example",
-        link: "https://github.com/runyasak/nuxt-urami/tree/main/playground",
+        link: "https://github.com/runyasak/nuxt-urami-playground",
       },
     ],
 
