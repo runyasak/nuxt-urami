@@ -1,6 +1,6 @@
 {
   "name": "nuxt-urami",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "description": "Urami automatic image optimization module for Nuxt",
   "repository": "https://github.com/runyasak/nuxt-urami",
   "homepage": "https://runyasak.github.io/nuxt-urami/",
