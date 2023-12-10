@@ -57,3 +57,7 @@ Temporary Items
 
 
 docs/.vitepress/cache
+.nuxt-urami/images
+
+# Scripts
+*.sh
