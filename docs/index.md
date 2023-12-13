@@ -5,18 +5,18 @@ layout: home
 hero:
   name: "Nuxt Urami"
   text: "Urami automatic image optimization module for Nuxt"
-  tagline: Simpliest way to implement automatic image along with Urami
+  tagline: Simplest way to implement automatic image along with Urami
   actions:
     - theme: brand
       text: Get started
-      link: /introduction
+      link: introduction
     - theme: alt
       text: Examples
       link: https://github.com/runyasak/nuxt-urami-playground
 
 features:
   - icon: 🖼️
-    title: Optmized
+    title: Optimized
     details: Optimizes images like Urami, into the best format and size based on the visitor's browser
   - icon: 🛠
     title: Zero Config
