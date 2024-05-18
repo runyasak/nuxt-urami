@@ -20,8 +20,8 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: "Get started", link: "/introduction" },
-          { text: "Options", link: "/options" },
+          { text: "Get started", link: "/introduction/" },
+          { text: "Options", link: "/options/" },
         ],
       },
     ],
@@ -30,5 +30,5 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/runyasak/nuxt-urami" },
     ],
   },
-  base: "https://runyasak.github.io/nuxt-urami/",
+  base: "/nuxt-urami/",
 });
