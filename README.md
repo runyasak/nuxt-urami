@@ -5,7 +5,7 @@
 [![License][license-src]][license-href]
 [![Nuxt][nuxt-src]][nuxt-href]
 
-Urami automatic image optimization module for Nuxt.
+[Urami](https://urami.dev/) automatic image optimization module for Nuxt.
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 - [🛝 Example Project](https://github.com/runyasak/nuxt-urami-playground)
